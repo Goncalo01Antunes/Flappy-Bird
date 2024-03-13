@@ -1,0 +1,12 @@
+C:\Users\AEMaximinos\source\repos\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+C:\Users\AEMaximinos\source\repos\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+C:\Users\AEMaximinos\source\repos\FlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+C:\Users\AEMaximinos\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.AssemblyReference.cache
+C:\Users\AEMaximinos\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Form1.resources
+C:\Users\AEMaximinos\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.FormInicio.resources
+C:\Users\AEMaximinos\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Login.resources
+C:\Users\AEMaximinos\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+C:\Users\AEMaximinos\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+C:\Users\AEMaximinos\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+C:\Users\AEMaximinos\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+C:\Users\AEMaximinos\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
